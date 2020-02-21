@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-import numpy as np #importing numpy with alias np
+import numpy as np
 import pyaudio as pa
 import struct
 import matplotlib.pyplot as plt
@@ -45,11 +45,3 @@ try:
         fig.canvas.flush_events()
 except:
     print("Restart Kernel")
-    
-
-
-# In[ ]:
-
-
-
-
