@@ -12,3 +12,6 @@ Install PyAudio
 
 ## Run [Spectrum Analyser](SpectrumAnalyser.py)
 `python SpectrumAnalyser.py`
+
+1. For `Chunk Size` Enter `1`
+2. Select Appripriate Microphone Device
