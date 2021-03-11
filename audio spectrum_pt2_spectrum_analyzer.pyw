@@ -24,7 +24,7 @@ import matplotlib.pyplot as plt
 from scipy.fftpack import fft
 import time
 from tkinter import TclError
-from IPython.terminal.pt_inputhooks import tk
+# from IPython.terminal.pt_inputhooks import tk
 
 
 
